@@ -1,0 +1,6 @@
+SUGAR_TYPE="fructose"
+inherit sugar
+
+PATCH_URI="4-deprecated-api.patch"
+
+REQUIRES="girepository-Gtk3.0"

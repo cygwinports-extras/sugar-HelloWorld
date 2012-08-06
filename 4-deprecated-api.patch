@@ -1,0 +1,10 @@
+--- origsrc/HelloWorld-4/activity.py	2011-11-15 08:19:36.000000000 -0600
++++ src/HelloWorld-4/activity.py	2012-08-02 01:26:37.684914000 -0500
+@@ -24,7 +24,6 @@ from gettext import gettext as _
+ from sugar3.activity import activity
+ from sugar3.graphics.toolbarbox import ToolbarBox
+ from sugar3.activity.widgets import ActivityButton
+-from sugar3.activity.widgets import ActivityToolbox
+ from sugar3.activity.widgets import TitleEntry
+ from sugar3.activity.widgets import StopButton
+ from sugar3.activity.widgets import ShareButton
